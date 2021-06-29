@@ -1,0 +1,179 @@
+
+
+h2, h3, h4{
+    
+    text-shadow: 0 0 10px #FF0000;
+    color:#ffff;
+
+}
+
+h5{
+    text-shadow: 10 10 20px #000000;
+}
+
+.heading{
+    text-align: center;
+    font-size: 20px;
+}
+
+.about_intro {
+    width: 100%;
+    padding: 40px 0px;
+}
+
+.about_us {
+    margin: 0 auto;
+    max-width: 730px;
+    text-align: center;
+    margin: 0 auto 50px;
+}
+
+
+
+.header_t {
+    border-radius: 15px;
+    padding: 20px 23px;
+    transition: 0.5s;
+    cursor: pointer;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.09);
+    background: #33ccff;
+}
+
+.header_t:hover {
+    margin-top: -10px;
+    transition: 0.5s;
+    
+    background: linear-gradient(to bottom, #33ccff 0%, #99ff99 100%);
+}
+
+.col-md-4 {
+    flex: 0 0 auto;
+    width: 10.333333%;
+}
+
+/* blocks style */
+
+.box-wrap1{
+    border-radius: 15px;
+    padding: 20px 23px;
+    transition: 0.5s;
+    cursor: pointer;
+    box-shadow: 0 15px 25px rgba(119, 109, 109, 0.09);
+    width: 350px;
+    margin: 20px;  
+   
+    background: linear-gradient(to bottom, #33ccff 0%, #99ff66 100%);
+}
+
+
+.box-wrap1:hover{
+
+    margin-top: -10px;
+    transition: 0.5s;
+    background: linear-gradient(to bottom, #f9844a 0%, #f9c74f 100%);
+ 
+}
+
+.box-wrap2{
+    border-radius: 15px;
+    padding: 20px 23px;
+    transition: 0.5s;
+    cursor: pointer;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.09);
+    width: 220px;
+    margin: 20px;
+    background: linear-gradient(to bottom, #e9c46a 0%, #f4a261 100%);
+}
+
+.box-wrap2:hover {
+
+    margin-top: -10px;
+    transition: 0.5s;
+    background: linear-gradient(to bottom, #e76f51 0%, #f4a261 100%);
+}
+.box-wrap3{
+    border-radius: 15px;
+    padding: 20px 23px;
+    transition: 0.5s;
+    cursor: pointer;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.09);
+    width: 220px;
+    margin: 20px;
+    background: linear-gradient(to bottom, #33ccff 0%, #cc66ff 100%);
+}
+
+.box-wrap3:hover {
+
+    margin-top: -10px;
+    transition: 0.5s;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff66cc 100%);
+    
+}
+.box-wrap4{
+    border-radius: 15px;
+    padding: 20px 23px;
+    transition: 0.5s;
+    cursor: pointer;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.09);
+    width: 220px;
+    margin: 20px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ffff99 100%);
+}
+
+.box-wrap4:hover {
+
+    margin-top: -10px;
+    transition: 0.5s;
+    background: linear-gradient(to bottom, #33ccff 0%, #ccff66 100%);
+}
+.box-wrap5{
+    border-radius: 15px;
+    padding: 20px 23px;
+    transition: 0.5s;
+    cursor: pointer;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.09);
+    width: 220px;
+    margin: 20px;
+    background: linear-gradient(to bottom, #f28482 0%, #f5cac3 100%);
+}
+
+.box-wrap5:hover {
+
+    margin-top: -10px;
+    transition: 0.5s;
+    background: linear-gradient(to bottom, #33ccff 0%, #ffccff 100%);
+}
+.box-wrap6{
+    border-radius: 15px;
+    padding: 20px 23px;
+    transition: 0.5s;
+    cursor: pointer;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.09);
+    width: 220px;
+    margin: 20px;
+    background: linear-gradient(to bottom, #33ccff 0%, #66ff99 100%);
+}
+
+.box-wrap6:hover {
+
+    margin-top: -10px;
+    transition: 0.5s;
+    background: linear-gradient(to bottom, #33ccff 0%, #66ff66 100%);
+}
+.box-wrap7{
+    border-radius: 15px;
+    padding: 20px 23px;
+    transition: 0.5s;
+    cursor: pointer;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.09);
+    width: 220px;
+    margin: 20px;
+    background: linear-gradient(to bottom, #81b29a 0%, #a7c957 100%);
+}
+
+.box-wrap7:hover {
+
+    margin-top: -10px;
+    transition: 0.5s;
+    background: linear-gradient(to bottom, #33ccff 0%, #99ff66 100%);
+}
